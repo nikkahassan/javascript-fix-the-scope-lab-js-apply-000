@@ -18,3 +18,4 @@ function add2(n) {
      }
  }
 var theFunk = funkyFunction()
+var theFunk = "FUNKY!"
